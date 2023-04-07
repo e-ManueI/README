@@ -121,8 +121,11 @@ Overall, I am a well-rounded and versatile individual with a passion for using t
 
 ## <b>Badges 📂</b>
 
+<a href="https://zindi.africa/users/l3un6m" target="_blank">
+    <img src="zindian-badge.png" width="100" height="90" style="margin-right: 15px;"></img>
+</a>
 <a href="https://www.credly.com/badges/b8fca50e-3ec9-4999-84c8-55d54a6bf31e/public_url" target="_blank">
-    <img src="applied-data-science-lab.2.png"></img>
+    <img src="applied-data-science-lab.2.png" width="100" height="95"></img>
 </a>
 <br>
 
