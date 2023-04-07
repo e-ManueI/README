@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=e-ManueI&style=for-the-badge&color=brightgreen)
 
-# <b>Hi there 👋</b> 
-
-<br>
+# <b>Hi there</b> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## <b>Whoami? 🙃</b>
 
@@ -123,10 +121,12 @@ Overall, I am a well-rounded and versatile professional with a passion for using
 
 ## <b>Badges 📂</b>
 
+<a href="https://www.credly.com/badges/b8fca50e-3ec9-4999-84c8-55d54a6bf31e/public_url">
+    <img src="applied-data-science-lab.2.png"></img>
+</a>
 <br>
 
 ## <b>My Github Stats 📃</b>
 
-![Github Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=e-ManueI)<br>
+![Github Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=e-ManueI)
 ![Github Stats 1](https://github-readme-stats.vercel.app/api?username=e-ManueI)<br>
-![Github Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=e-ManueI)<br>
