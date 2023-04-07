@@ -114,7 +114,7 @@ Overall, I am a well-rounded and versatile professional with a passion for using
 ## <b>How to reach me 📞</b>
 <ul>
     <li>
-        <a href="mailto:manueltylan@gmail.com">Email me</a>
+        <a href="mailto:manueltylan@gmail.com">Email me => manueltylan(at)gmail.com</a>
     </li>
     <li>
         <a href="https://www.linkedin.com/in/emmanuel-eit/">Linkedin</a>
