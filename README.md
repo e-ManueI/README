@@ -23,7 +23,6 @@ Overall, I am a well-rounded and versatile professional with a passion for using
     <li>Data Analysis</li>
     <li>Machine learning Modeling</li>
 </ul>
-<br>
 
 ## <b>Tech Stack 🧰</b>
 <ul>
@@ -102,7 +101,6 @@ Overall, I am a well-rounded and versatile professional with a passion for using
         </ul>
     </li>
 </ul>
-<br>
 
 ## <b>Hobbies 🎭</b>
 <ul>
@@ -112,7 +110,6 @@ Overall, I am a well-rounded and versatile professional with a passion for using
     <li>Playing Guitar</li>
     <li>Reading</li>
 </ul>
-<br>
 
 ## <b>How to reach me 📞</b>
 <ul>
@@ -123,11 +120,9 @@ Overall, I am a well-rounded and versatile professional with a passion for using
         <a href="https://www.linkedin.com/in/emmanuel-eit/">Linkedin</a>
     </li>
 </ul>
-<br>
 
 ## <b>Badges 📂</b>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="b8fca50e-3ec9-4999-84c8-55d54a6bf31e" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 <br>
 
 ## <b>My Github Stats 📃</b>
