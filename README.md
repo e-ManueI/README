@@ -127,6 +127,4 @@ Overall, I am a well-rounded and versatile professional with a passion for using
 <br>
 
 ## <b>My Github Stats 📃</b>
-
-![Github Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=e-ManueI)
 ![Github Stats 1](https://github-readme-stats.vercel.app/api?username=e-ManueI)<br>
