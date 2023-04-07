@@ -32,7 +32,7 @@ Overall, I am a well-rounded and versatile professional with a passion for using
         <ul>
             <li>Python | Javascript | C/C++ </li>
             <li>Html | Css | Js</li>
-        </ul>
+        </ul><br>
     </li>
     <li>
         <p><b>Frameworks & Tools</b></p>
@@ -41,63 +41,63 @@ Overall, I am a well-rounded and versatile professional with a passion for using
                 <p>Web Frameworks</p>
                 <ul>
                     <li>Django | ReactJs</li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p>Data Science (ML/AI)</p>
                 <ul>
                     <li>Sklearn</li>
                     <li>NumPy | Pandas | Matplotlib |  Plotly | Seaborn</li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Databases</p>
                 <ul>
                     <li> Sqlite | Mysql | Postgresql</li>
                     <li>MongoDB</li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p>IoT</p>
                 <ul>
                     <li>NodeMCU | Arduino</li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Cloud & Hosting</samp</p>
                 <ul>
                     <li> Digital Ocean | Heroku | GoDaddy </li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> API Testing</samp</p>
                 <ul>
                     <li> Postman </li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Distros </samp</p>
                 <ul>
                     <li> Ubuntu | Kali </li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Shells </samp</p>
                 <ul>
                     <li> Zsh | Bash  </li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Version Control </samp</p>
                 <ul>
                     <li> Git | Github  </li>
-                </ul>
+                </ul><br>
             </li>
             <li>
                 <p> Code Editor(IDE) + Environment </samp</p>
                 <ul>
                     <li> VSCode | Sublime | Vim | Nano  </li>
-                </ul>
+                </ul><br>
             </li>
         </ul>
     </li>
