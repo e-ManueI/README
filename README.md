@@ -40,63 +40,63 @@ Overall, I am a well-rounded and versatile professional with a passion for using
                 <p>Web Frameworks</p>
                 <ul>
                     <li>Django | ReactJs</li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p>Data Science (ML/AI)</p>
                 <ul>
                     <li>Sklearn</li>
                     <li>NumPy | Pandas | Matplotlib |  Plotly | Seaborn</li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Databases</p>
                 <ul>
                     <li> Sqlite | Mysql | Postgresql</li>
                     <li>MongoDB</li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p>IoT</p>
                 <ul>
                     <li>NodeMCU | Arduino</li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Cloud & Hosting</samp</p>
                 <ul>
                     <li> Digital Ocean | Heroku | GoDaddy </li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> API Testing</samp</p>
                 <ul>
                     <li> Postman </li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Distros </samp</p>
                 <ul>
                     <li> Ubuntu | Kali </li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Shells </samp</p>
                 <ul>
                     <li> Zsh | Bash  </li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Version Control </samp</p>
                 <ul>
                     <li> Git | Github  </li>
-                </ul><br>
+                </ul>
             </li>
             <li>
                 <p> Code Editor(IDE) + Environment </samp</p>
                 <ul>
                     <li> VSCode | Sublime | Vim | Nano  </li>
-                </ul><br>
+                </ul>
             </li>
         </ul>
     </li>
