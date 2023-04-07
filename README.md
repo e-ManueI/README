@@ -4,7 +4,7 @@
 
 ## <b>Whoami? 🙃</b>
 
-I am Emmanuel, a highly skilled and experienced professional in the field of data science, data analysis, and web development. I specialize in using the powerful programming language, Python, to create insightful and dynamic solutions for complex data problems.
+I am Emmanuel, a highly skilled individual in the field of data science, data analysis, and web development. I specialize in using the powerful programming language, Python, to create insightful and dynamic solutions for complex data problems.
 
 As a data scientist, I am adept at collecting, cleaning, and analyzing large and complex data sets using a variety of tools and techniques. I am experienced in developing predictive models, creating data visualizations, and providing actionable insights to stakeholders.
 
@@ -12,7 +12,7 @@ As a data analyst, I am skilled in using statistical analysis and data mining te
 
 As a web developer, I am proficient in creating dynamic and interactive websites using Python-based web frameworks such as Django. I am experienced in building database-driven web applications, designing user interfaces, and implementing robust security measures.
 
-Overall, I am a well-rounded and versatile professional with a passion for using technology to solve complex problems. My skills in data science, data analysis, and web development make me a valuable asset.
+Overall, I am a well-rounded and versatile individual with a passion for using technology to solve complex problems. My skills in data science, data analysis, and web development make me a valuable asset.
 
 ## <b>What I am good at!/Skills 🧙🏼‍♂️</b>
 <ul>
