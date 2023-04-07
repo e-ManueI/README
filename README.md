@@ -115,13 +115,13 @@ Overall, I am a well-rounded and versatile professional with a passion for using
         <a href="mailto:manueltylan@gmail.com">Email me => manueltylan(at)gmail.com</a>
     </li>
     <li>
-        <a href="https://www.linkedin.com/in/emmanuel-eit/">Linkedin</a>
+        <a href="https://www.linkedin.com/in/emmanuel-eit/" target="_blank">Linkedin</a>
     </li>
 </ul>
 
 ## <b>Badges 📂</b>
 
-<a href="https://www.credly.com/badges/b8fca50e-3ec9-4999-84c8-55d54a6bf31e/public_url">
+<a href="https://www.credly.com/badges/b8fca50e-3ec9-4999-84c8-55d54a6bf31e/public_url" target="_blank">
     <img src="applied-data-science-lab.2.png"></img>
 </a>
 <br>
