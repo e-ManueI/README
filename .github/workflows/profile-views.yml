@@ -1,0 +1,22 @@
+name: Profile Views
+
+on:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  update-profile-views:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+      - name: Update profile views
+        run: |
+          curl -X POST https://api.countapi.xyz/hit/e-ManueI/github-profile-views
+      - name: Update README
+        uses: peaceiris/actions-readme@v2
+        with:
+          readme_path: README.md
+          replace: |
+            <p align="left"> <img src="https://api.countapi.xyz/hit/e-ManueI/github-profile-views" alt="Profile views"> </p>
+          token: ${{ secrets.GITHUB_TOKEN }}
