@@ -115,7 +115,7 @@ Overall, I am a well-rounded and versatile individual with a passion for using t
         <a href="mailto:manueltylan@gmail.com">Email me => manueltylan(at)gmail.com</a>
     </li>
     <li>
-        <a href="" target="_blank">Linkedin</a>
+        <a href="">Linkedin</a>
     </li>
 </ul>
 
