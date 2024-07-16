@@ -17,7 +17,7 @@ I am Emmanuel, a seasoned professional with a focus on application development a
 <ul>
         <li>
             <p>Languages:</p>
-            Python | JavaScript | C/C++ | HTML | CSS
+            Python | JavaScript | Dart | Java | HTML | CSS
         </li><br />
         <li>
             <p>Frameworks & Tools:</p>
