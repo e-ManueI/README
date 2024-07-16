@@ -21,7 +21,7 @@ I am Emmanuel, a seasoned professional with a focus on application development a
         </li><br />
         <li>
             <p>Frameworks & Tools:</p>
-            <b>Frameworks:</b> Django, SpringBoot, ReactJS, NextJs<br>
+            <b>Frameworks:</b> Django, SpringBoot, ReactJS, NextJs, Flutter<br>
             <b>Data Science (ML/AI):</b> Scikit-learn, PyTorch<br>
             <b>Data Libraries:</b> NumPy, Pandas, Matplotlib, Plotly, Seaborn<br>
             <b>Databases:</b> SQLite, MySQL, PostgreSQL, MongoDB<br>
