@@ -4,7 +4,7 @@
 
 ## <b>Whoami? 🙃</b>
 
-I am Emmanuel, a seasoned professional with a focus on application development and data science as a specialized subset. Proficient in Python, I excel in crafting dynamic and interactive web applications using frameworks. In the realm of data science, I bring a wealth of experience in collecting, cleaning, and analyzing complex datasets, leveraging statistical analysis and data mining techniques to discover valuable insights. My skills extend to creating data reports, interactive dashboards, and predictive models. This unique combination of web development and data science expertise allows me to deliver innovative solutions that drive success and empower organizations with data-driven insights.
+I am Emmanuel, A versatile Software Developer skilled in UI/UX design, full-stack development, and mobile app creation using Android and Flutter. Proficient in backend technologies like Django, Next.js, and Spring Boot, with experience in data science, machine learning, and automation. Adept at building scalable, high-performance software, and collaborating in Agile environments to deliver robust solutions.
 
 ## <b>What I am good at!/Skills 🧙🏼‍♂️</b>
 <ul>
@@ -29,9 +29,7 @@ I am Emmanuel, a seasoned professional with a focus on application development a
             <b>Cloud & Hosting:</b> Digital Ocean, Heroku, GoDaddy<br>
             <b>API Testing:</b> Postman<br>
             <b>Operating Systems:</b> Ubuntu, Kali, Windows<br>
-            <b>Shells:</b> Zsh, Bash<br>
             <b>Version Control:</b> Git, GitHub, BitBucket<br>
-            <b>Code Editors & Environments:</b> VSCode, Sublime, Vim, Nano
         </li>
     </ul>
 
@@ -47,7 +45,7 @@ I am Emmanuel, a seasoned professional with a focus on application development a
 ## <b>How to reach me 📞</b>
 <ul>
     <li>
-        <a href="mailto:manueltylan@gmail.com">Email me => manueltylan(at)gmail.com</a>
+        <a href="mailto:manueltylan@gmail.com">Email me</a>
     </li>
 </ul>
 
