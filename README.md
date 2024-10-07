@@ -4,7 +4,7 @@
 
 ## <b>Whoami? 🙃</b>
 
-I am Emmanuel, A versatile Software Developer skilled in UI/UX design, full-stack development, and mobile app creation using Android and Flutter. Proficient in backend technologies like Django, Next.js, and Spring Boot, with experience in data science, machine learning, and automation. Adept at building scalable, high-performance software, and collaborating in Agile environments to deliver robust solutions.
+I am Emmanuel, A versatile Software Developer skilled in full-stack development, and mobile app creation using Android and Flutter. Proficient in backend technologies like Django, Next.js, and Spring Boot, with experience in data science, machine learning, a bit of UI/UX design, and automation. Adept at building scalable, high-performance software, and collaborating in Agile environments to deliver robust solutions.
 
 ## <b>What I am good at!/Skills 🧙🏼‍♂️</b>
 <ul>
@@ -16,11 +16,11 @@ I am Emmanuel, A versatile Software Developer skilled in UI/UX design, full-stac
 ## <b>Tech Stack 🧰</b>
 <ul>
         <li>
-            <p>Languages:</p>
+            <p><b>Languages:</b></p>
             Python | JavaScript | Dart | Java | HTML | CSS
-        </li><br />
+        </li>
         <li>
-            <p>Frameworks & Tools:</p>
+            <p><b>Frameworks & Tools:</b></p>
             <b>Frameworks:</b> Django, SpringBoot, ReactJS, NextJs, Flutter<br>
             <b>Data Science (ML/AI):</b> Scikit-learn, PyTorch<br>
             <b>Data Libraries:</b> NumPy, Pandas, Matplotlib, Plotly, Seaborn<br>
@@ -32,7 +32,7 @@ I am Emmanuel, A versatile Software Developer skilled in UI/UX design, full-stac
             <b>Version Control:</b> Git, GitHub, BitBucket<br>
         </li>
     </ul>
-
+    
 ## <b>Hobbies 🎭</b>
 <ul>
     <li>Movies</li>
